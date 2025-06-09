@@ -1,0 +1,3 @@
+# Learn Gradle
+
+Following tutorial
